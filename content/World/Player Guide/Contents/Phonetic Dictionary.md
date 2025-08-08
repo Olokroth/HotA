@@ -1,6 +1,6 @@
 ---
-title: "Phonetic Dictionary"
-draft: false
+title: Phonetic Dictionary
+draft: true
 tags:
   - setting/narrator
 ---

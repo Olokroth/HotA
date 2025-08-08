@@ -4,8 +4,7 @@ longform:
   title: Harbingers of the Abyss
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles:
     - manuscript
