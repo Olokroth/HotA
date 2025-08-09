@@ -9,4 +9,4 @@ tags:
   - tuNaut
 ---
 
-The most prevalent language across [[content/Harbingers of the Abyss/Appendices/Radea]]
+The most prevalent language across [[Radea]]

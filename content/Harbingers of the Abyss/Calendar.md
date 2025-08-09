@@ -38,7 +38,7 @@ Withering, Crest (Withering & Breakdown)
 Withering, Wane (Return to the Earth)*
 
 ## EVENTS & HOLIDAYS
-### ==**THREE KINGDOMS**==
+### **THREE KINGDOMS**
 #### ![[Ending - New Year Festival]]
 #### ![[Summer Solstice]]
 #### ![[Concord Day]]
@@ -46,14 +46,14 @@ Withering, Wane (Return to the Earth)*
 #### ![[Reaping Festival, Equinox]]
 #### ![[Winter Solstice]]
 
-### ==**JÖRDEN**==
+### **JÖRDEN**
 #### ![[Endalaus Sól, Summer Solstice]]
 #### ![[Glæsilegra Ljósa, Winter Solstice]]
 
-### ==**IRON EMPIRE**==
+### **IRON EMPIRE**
 #### ![[Purification Day]]
 #### ![[Emperor's Name Day]]
 
-### ==**TU'NAUT**==
+### **TU'NAUT**
 #### ![[The Haunt]]
 #### ![[Landfall]]
