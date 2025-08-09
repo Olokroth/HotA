@@ -2,7 +2,10 @@
 title: "Summer Solstice"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
+  - jorden
+  - tuNaut
 ---
 
 **Day:** 90

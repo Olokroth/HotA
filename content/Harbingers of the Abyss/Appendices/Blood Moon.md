@@ -2,7 +2,8 @@
 title: "Blood Moon"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - dreadlands
 ---
 
 **Calendar:** Special, lasts a week

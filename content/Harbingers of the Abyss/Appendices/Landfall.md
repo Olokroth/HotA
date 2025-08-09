@@ -2,7 +2,8 @@
 title: "Landfall"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - tuNaut
 ---
 
 **Day:** 182

@@ -2,7 +2,7 @@
 title: "Divine Archpriest Benjamin Kane"
 draft: false
 tags:
-  - 
+  - ironEmpire
 ---
 
 **THE FLAME’S IGNITING VOICE**

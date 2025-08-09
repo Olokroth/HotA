@@ -2,7 +2,8 @@
 title: "Purification Day"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
 ---
 
 **Day:** 43

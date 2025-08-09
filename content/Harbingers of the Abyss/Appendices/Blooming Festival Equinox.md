@@ -2,7 +2,10 @@
 title: "Blooming Festival Equinox"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
+  - jorden
+  - tuNaut
 ---
 
 **Day:** 67

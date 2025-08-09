@@ -2,7 +2,8 @@
 title: "The Haunt"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - tuNaut
 ---
 
 **Day:** 180

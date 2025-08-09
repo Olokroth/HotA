@@ -1,6 +1,6 @@
 ---
 title: "Jörden"
-draft: false
+draft: true
 tags:
   - setting/region
 ---
@@ -22,7 +22,7 @@ Village elders are tasked with teaching the youth histories written onto copper 
 
 Each family is responsible for passing down knowledge of combat, survival and craftwork to their children. Everyone must be skilled in each trade.
 
-Frostborn learn the Common language, but they aren’t as practiced in it. They speak and write in Kiertak, the old language of their people, and have a secret sign language, “[[Ekyst]]”.
+Frostborn learn the Common language, but they aren’t as practiced in it. They speak and write in [[Kiertak]], the old language of their people, and have a secret sign language, “[[Ekyst]]”.
 
 ## ENTERTAINMENT
 Tests of strength and fierce brawls fuel high-stakes betting, while canoeing and ice fishing serve as both sport and survival. Intricately carved strategy games challenge the mind, alongside intellectual puzzles and handcrafted toys that entertain and sharpen young minds.

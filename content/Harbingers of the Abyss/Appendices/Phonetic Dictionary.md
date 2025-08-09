@@ -1,5 +1,5 @@
 ---
-title: Phonetic Dictionary
+title: "Phonetic Dictionary"
 draft: true
 tags:
   - setting

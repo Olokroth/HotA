@@ -5,16 +5,10 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Cover Art
-    - History
     - World Map
-    - Dreadlands
     - Three Kingdoms
-    - - Jörden
-      - Iron Empire
+    - - Iron Empire
       - Tu'Naut
-    - Heritage Summary
-    - Calendar
   sceneTemplate: templates/chapter.md
   ignoredFiles:
     - manuscript

@@ -2,7 +2,11 @@
 title: "Winter Solstice"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
+  - jorden
+  - tuNaut
+  - dreadlands
 ---
 
 **Day:** 225

@@ -2,7 +2,10 @@
 title: "Ending / New Year Festival"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
+  - jorden
+  - tuNaut
 ---
 
 **Day:** 270 - 1

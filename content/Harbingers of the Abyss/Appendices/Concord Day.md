@@ -2,7 +2,10 @@
 title: "Concord Day"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
+  - jorden
+  - tuNaut
 ---
 
 **Day:** 124

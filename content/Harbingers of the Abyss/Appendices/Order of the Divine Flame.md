@@ -2,7 +2,7 @@
 title: "Order of the Divine Flame"
 draft: false
 tags:
-  - 
+  - ironEmpire
 ---
 
 The Order was forged in fire and blood, born from fear and hatred. It began when [[Divine Archpriest Benjamin Kane|Benjamin Kane]], leader of a small sect, seized upon the fear of the people after an [[Void-Touched|altered]] individual was discovered in the great human kingdom of [[Eseryn]]. [[Divine Archpriest Benjamin Kane|Kane]] urged the [[Iron Empire#EMPEROR|Emperor]] to purify the afflicted soul through public execution, igniting a frenzy that would consume the city.

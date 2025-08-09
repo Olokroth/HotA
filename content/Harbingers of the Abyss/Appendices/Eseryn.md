@@ -2,7 +2,7 @@
 title: "Eseryn"
 draft: false
 tags:
-  - 
+  - ironEmpire
 ---
 
 [[Phonetic Dictionary#**Eseryn (ess·ee·rin)**|Pronunciation]]

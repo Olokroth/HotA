@@ -2,7 +2,8 @@
 title: "Amethyst Night"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - dreadlands
 ---
 
 **Calendar:** No knowledge

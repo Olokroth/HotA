@@ -1,1 +1,0 @@
-![[public/World/Assets/cover-art.png]]

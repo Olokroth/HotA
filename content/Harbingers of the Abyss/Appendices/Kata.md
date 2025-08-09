@@ -2,7 +2,7 @@
 title: "Kata"
 draft: false
 tags:
-  - 
+  - tuNaut
 ---
 
 [[Phonetic Dictionary#**Kata (kah·tah)**|Pronunciation]]

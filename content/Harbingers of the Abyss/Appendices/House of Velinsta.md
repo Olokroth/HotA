@@ -2,7 +2,7 @@
 title: "House of Velinsta"
 draft: false
 tags:
-  - 
+  - tuNaut
 ---
 
 [[Phonetic Dictionary#**Velinsta (Vel·in-sta)**|Pronunciation]]

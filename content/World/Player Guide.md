@@ -1,5 +1,5 @@
 ---
-title: Player Guide
+title: "Player Guide"
 draft: true
 tags:
   - setting
@@ -10,7 +10,7 @@ tags:
 
 ![[public/World/Assets/map-radea-redacted.webp]]
 
-![[content/Harbingers of the Abyss/History#HISTORY]]
+![[content/World/Contents/History#HISTORY]]
 
 ![[Dreadlands#DREADLANDS]]
 

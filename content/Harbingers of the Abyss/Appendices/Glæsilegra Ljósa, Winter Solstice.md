@@ -1,8 +1,8 @@
 ---
-title: Glæsilegra Ljósa, Winter Solstice
+title: "Glæsilegra Ljósa, Winter Solstice"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
 ---
 
 **Day:** 225

@@ -2,7 +2,7 @@
 title: "Divine Archpriest Faraday"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
 ---
 
 **THE FLAME INCARNATE**

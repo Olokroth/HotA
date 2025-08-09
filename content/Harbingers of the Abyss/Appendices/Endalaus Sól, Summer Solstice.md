@@ -1,8 +1,8 @@
 ---
-title: Endalaus Sól, Summer Solstice
+title: "Endalaus Sól, Summer Solstice"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
 ---
 
 **Day:** 90

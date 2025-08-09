@@ -2,7 +2,8 @@
 title: "Emperor's Name Day"
 draft: false
 tags:
-  - calendar/holiday
+  - calendar
+  - ironEmpire
 ---
 
 **Day:** 101 (Special)
