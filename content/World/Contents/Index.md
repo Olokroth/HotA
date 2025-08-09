@@ -7,8 +7,7 @@ longform:
   title: Harbingers of the Abyss
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - World Map
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles:
     - HISTORY
