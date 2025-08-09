@@ -6,7 +6,7 @@ tags:
 ---
 # RADEA
 
-![[public/World/Assets/map-radea-redacted.webp]]
+![[map-radea.webp]]
 
 ## HISTORY
 A century ago (13 BFE), the continent of [[Radea]] was a mosaic of independent nations. Seeking absolute power, the war-hungry nation of [[Phonetic Dictionary#**Ferrum (fur·uhm)**|Ferrum]] ignited a brutal campaign of conquest, forging the formidable [[Iron Empire]] from the blood of its rivals. Refugees fled north, taking shelter among the resilient [[Jörden|Northern Tribes]], their harsh homeland a natural fortress against invasion. In defiance, several nations banded together, founding [[Tu'Naut]] (11 BFE) to resist [[Iron Empire|Imperial expansion]]. Others, desperate to escape the carnage, ventured into the western wastelands. There, they encountered a cosmic being and established **Shatterfall** at the site of an ancient meteor, made up of [[Null Stone|black stone]] (6 BFE).
