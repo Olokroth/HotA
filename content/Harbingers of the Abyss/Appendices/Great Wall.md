@@ -5,7 +5,7 @@ tags:
   - setting
 ---
 
-The Great Wall is a monumental fortification that stretches across the borderlands between the corrupted [[Dreadlands]] and the united territories of the [[Three Kingdoms]]. Completed in the year 36 of the Federation Era (FE), it was built to stem the tide of supernatural horrors, ravenous beasts, and creeping corruption that spills from the [[Void]]-tainted wastelands.
+The Great Wall is a monumental fortification that stretches across the borderlands between the corrupted [[Dreadlands]] and the united territories of the [[content/World/Contents/Three Kingdoms]]. Completed in the year 36 of the Federation Era (FE), it was built to stem the tide of supernatural horrors, ravenous beasts, and creeping corruption that spills from the [[Void]]-tainted wastelands.
 
 **Key Traits:**
 - **Colossal Scale**: Towering walls of stone and blackened steel, fortified with watchtowers manned by devoted sentinels.

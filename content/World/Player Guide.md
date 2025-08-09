@@ -14,7 +14,7 @@ tags:
 
 ![[Dreadlands#DREADLANDS]]
 
-![[Three Kingdoms#THREE KINGDOMS]]
+![[content/World/Contents/Three Kingdoms#THREE KINGDOMS]]
 
 ![[Heritage Summary#HERITAGE SUMMARY]]
 

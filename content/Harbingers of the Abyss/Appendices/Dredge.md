@@ -6,4 +6,4 @@ tags:
   - dreadlands
 ---
 
-The language of the Dreadlands that becomes more prevalent deeper into the land.
+The language of the [[Dreadlands]] that becomes more prevalent deeper into the land.

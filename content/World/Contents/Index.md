@@ -1,4 +1,7 @@
 ---
+draft: true
+tags:
+  - 
 longform:
   format: scenes
   title: Harbingers of the Abyss
@@ -6,12 +9,8 @@ longform:
   sceneFolder: /
   scenes:
     - World Map
-    - Three Kingdoms
-    - - Iron Empire
-      - Tu'Naut
   sceneTemplate: templates/chapter.md
   ignoredFiles:
-    - manuscript
     - HISTORY
     - Setting
     - 
