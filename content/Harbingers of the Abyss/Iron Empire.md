@@ -6,6 +6,9 @@ tags:
 ---
 
 # IRON EMPIRE
+
+![[iron-empire.webp]]
+
 The largest of the [[Three Kingdoms]], the Iron Empire stands unrivalled in the art of warfare and the grim mastery of torture. Its great capital, [[Eseryn]], serves as both the heart of industry and the seat of the [[Emperor Calian Lorringer|Emperor]]'s rule.
 
 In the heart of the Empire, the province of [[Phonetic Dictionary#**Ferrum (fur·uhm)**|Ferrum]] stands as its ideological stronghold. Its people, bound by ancient lineages predating the rise of the Empire, are unwavering in their devotion to its doctrine. The [[Order of the Divine Flame|Divine Flame]] floods the streets with propaganda, stoking fear of the foreign menace from the [[Dreadlands]] and calling for purification of the land. Meanwhile, the nobles revel in excess, driven not by duty but by schemes, indulgence, and their own unrelenting thirst for power.

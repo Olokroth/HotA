@@ -6,6 +6,9 @@ tags:
 ---
 
 # JÖRDEN
+
+![[jorden.webp]]
+
 Jörden, meaning "Frozen Land," is home to the Frostborn, a name born from a misinterpretation of their [[Kiertak]] greeting, [[Phonetic Dictionary#forsse (fors) buren (bur·en)|Forsse buren]]—"to come from nature." These tribes are renowned survivalists, masterful hunters, and expert weapon forgers, clad in furs and leathers for mobility in the unforgiving cold.
 
 The ancestors of the Northern Tribes settled in the harsh North, drawn by its geothermal properties and a deep reverence for nature. As their numbers grew, families branched off to form new tribes, spreading across the land in search of resources.

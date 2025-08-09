@@ -6,6 +6,9 @@ tags:
 ---
 
 # TU'NAUT
+
+![[tuNaut.webp]]
+
 A nation of innovators and seafarers, the Southerners reject the constraints of religion, believing true enlightenment lies in the boundless exploration of the mind. Governed by a parliament of intellectuals, each member nation holds a seat, ensuring a balance of wisdom and progress. Justice is not dictated by rulers but upheld through fair trials, where criminals stand before their peers and receive proper legal representation.
 
 Violence is scorned, for the people of Tu’Naut hold reason and intellect above brute force—proof that strength need not be measured in bloodshed.

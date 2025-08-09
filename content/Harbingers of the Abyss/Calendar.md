@@ -39,21 +39,21 @@ Withering, Wane (Return to the Earth)*
 
 ## EVENTS & HOLIDAYS
 ### **THREE KINGDOMS**
-#### ![[Ending - New Year Festival]]
-#### ![[Summer Solstice]]
-#### ![[Concord Day]]
-#### ![[Blooming Festival Equinox]]
-#### ![[Reaping Festival, Equinox]]
-#### ![[Winter Solstice]]
+[[Ending - New Year Festival]]
+[[Summer Solstice]]
+[[Concord Day]]
+[[Blooming Festival Equinox]]
+[[Reaping Festival, Equinox]]
+[[Winter Solstice]]
 
 ### **JÖRDEN**
-#### ![[Endalaus Sól, Summer Solstice]]
-#### ![[Glæsilegra Ljósa, Winter Solstice]]
+[[Endalaus Sól, Summer Solstice]]
+[[Glæsilegra Ljósa, Winter Solstice]]
 
 ### **IRON EMPIRE**
-#### ![[Purification Day]]
-#### ![[Emperor's Name Day]]
+[[Purification Day]]
+[[Emperor's Name Day]]
 
 ### **TU'NAUT**
-#### ![[The Haunt]]
-#### ![[Landfall]]
+[[The Haunt]]
+[[Landfall]]

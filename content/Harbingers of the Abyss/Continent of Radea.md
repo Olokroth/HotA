@@ -4,7 +4,6 @@ draft: false
 tags:
   - setting
 ---
-
 # RADEA
 
 ![[public/World/Assets/map-radea-redacted.webp]]
