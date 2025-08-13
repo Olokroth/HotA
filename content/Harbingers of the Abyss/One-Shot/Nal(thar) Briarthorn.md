@@ -11,11 +11,11 @@ Nal(thar), a former bandit from beyond the wall, is pursued—by the law, by bou
 
 ## FELLOWSHIP RELATIONSHIP
 
-|  **COMPANION**  |   **RELATIONSHIP TAG**  |
-| --- | --- |
-|  Euros/Ersa Kolynn   |  Have their back  |
-|  Su Evrin   |  Admired  |
-|  rey/Trey Torgersen   |  Protective  |
+| **COMPANION**       | **RELATIONSHIP TAG** |
+| ------------------- | -------------------- |
+| Euros/Ersa Kolynn   | Have their back      |
+| Sue/Sun Evrin       | Admired              |
+| Frey/Trey Torgersen | Protective           |
 
 ## BACKPACK
 - Strange mask
@@ -24,15 +24,15 @@ Nal(thar), a former bandit from beyond the wall, is pursued—by the law, by bou
 From beyond the wall, not branded but wanted for a death during a bar fight in the nearest city; daggers and throwing knives. He's Altered, hiding a mutation that allows him to harden his skin to the strength of iron. Skin is plated, hidden under cloak.
 
 ## THEMEBOOKS
-|**CIRCUMSTANCE (Origin Theme)**|**MAGIC (Adventure Theme)**|**SKILL OR TRADE (Origin Theme)**|**TRAIT (Origin Theme)**|
-|---|---|---|---|
-|*POWER TAGS*|*POWER TAGS*|*POWER TAGS*|*POWER TAGS*|
-|Fugitive|Iron Skin Mutation|Hidden Daggers|Team Player|
-|Concealing cloak|Can't be knocked down|Balanced throw|Unspoken understanding|
-|Lockpicking|Terrifying presence|Quick draw sheath|Diversion|
-||Increased strength|||
-|*WEAKNESS TAGS*|*WEAKNESS TAGS*|*WEAKNESS TAGS*|*WEAKNESS TAGS*|
-|Distrusted stranger|Inhibits agility|Heavy armour|Never leave a man behind|
-||Divine Order Flamebearers|||
-|*QUEST*|*QUEST*|*QUEST*|*QUEST*|
-|One day, I won't have to run anymore|I will learn to hide my mutation|Always strive to surprise your foe|There's hardship to go around - let's carry it together|
+| **CIRCUMSTANCE (Origin Theme)**      | **MAGIC (Adventure Theme)**      | **SKILL OR TRADE (Origin Theme)**  | **TRAIT (Origin Theme)**                                |
+| ------------------------------------ | -------------------------------- | ---------------------------------- | ------------------------------------------------------- |
+| *POWER TAGS*                         | *POWER TAGS*                     | *POWER TAGS*                       | *POWER TAGS*                                            |
+| Fugitive                             | Iron Skin Mutation               | Hidden Daggers                     | Team Player                                             |
+| Concealing cloak                     | Can't be knocked down            | Balanced throw                     | Unspoken understanding                                  |
+| Lockpicking                          | Terrifying presence              | Quick draw sheath                  | Diversion                                               |
+|                                      | Increased strength               |                                    |                                                         |
+| *WEAKNESS TAGS*                      | *WEAKNESS TAGS*                  | *WEAKNESS TAGS*                    | *WEAKNESS TAGS*                                         |
+| Distrusted stranger                  | Inhibits agility                 | Heavy armour                       | Never leave a man behind                                |
+|                                      | Divine Order Flamebearers        |                                    |                                                         |
+| *QUEST*                              | *QUEST*                          | *QUEST*                            | *QUEST*                                                 |
+| One day, I won't have to run anymore | I will learn to hide my mutation | Always strive to surprise your foe | There's hardship to go around - let's carry it together |
