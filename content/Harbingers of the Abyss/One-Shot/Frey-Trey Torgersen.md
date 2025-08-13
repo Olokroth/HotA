@@ -28,8 +28,8 @@ He grew up in the Iron Empire since his teen years due to a lame leg since birth
 | --------------------------------- | --------------------------------- | ------------------------------------------------ | ------------------------ |
 | *POWER TAGS*                      | *POWER TAGS*                      | *POWER TAGS*                                     | *POWER TAGS*             |
 | Skilled Bowman                    | Custom Compound Bow               | Frostborn Heritage                               | Tenacious                |
-| Eagle-eyed                        | Lightweight metal                 | Ekyst sign language                              | Bear the pain            |
-| Steady shot                       | Puncturing force                  | Resilient to harsh weather                       | Needs little sleep       |
+| Wind sense                        | Lightweight metal                 | Ekyst sign language                              | Bear the pain            |
+| Steady hands                      | Puncturing force                  | Resilient to harsh weather                       | Needs little sleep       |
 |                                   |                                   | Excellent tracker                                |                          |
 | *WEAKNESS TAGS*                   | *WEAKNESS TAGS*                   | *WEAKNESS TAGS*                                  | *WEAKNESS TAGS*          |
 | Overconfident                     | Close range                       | Doesn't fit in                                   | Draw ire                 |
